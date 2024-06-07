@@ -1,7 +1,7 @@
 
 ## EXAMEN DE RECUPERACIÓN LMSGI
 
-## PARTE 1, RA1, RA2, RA3: Páginas web HTML + CSS + JAVASCRIPT
+## RA1, RA2, RA3: Páginas web HTML + CSS + JAVASCRIPT
 
 ### ESTILOS BODY
 - Crea un archivo `index.html` que contenga la división de `header`, `nav`, `main` y `footer`.
@@ -42,20 +42,18 @@
 - Incluye el mostrar y ocultar un elemento mediante javascript.
 - También muestra la fecha y la hora actual en alguna esquina de la página web.
 
-## RA 5 XML
+## RA 4 CREACIÓN Y VALIDACIÓN XML
 
 ### Ejercicio 1 - 3 punto
 Creación de un Documento XML sobre un Libro. Escribe un documento XML que represente la información detallada de un libro. Este contiene un atributo ISBN para identificar de manera única el libro. Para representar la información completa de un libro se necesita conocer el título, autor del cual queremos saber nombre, apellidos y fecha de nacimiento, publicación que se compone de la fecha de publicación y editorial. También almacenaremos el género y este a su vez se compone de principal, subgénero. También de libro queremos seguir conociendo el idioma y el precio, que presenta un atributo moneda que expresa el precio.
 
-## **Ejercicios DTD - 3 puntos**
-### Ejercicio 3 - 1 punto
+### Ejercicio 3 - 3 punto
 Realiza un DTD para el ejercicio 1 que valide el documento XML que has creado.
 
-## **Ejercicios XML Schema - 4 puntos**
-### Ejercicio 5 - 1,5 puntos
+### Ejercicio 5 - 4 puntos
 Realiza un XML Schema para el ejercicio 1 que valide el documento XML que has creado.
 
-## RA 6 - CONSULTA Y ALMACENAMIENTO XML
+## RA 5 - CONSULTA Y ALMACENAMIENTO XML
 ### Ejercicio 1 - 4 puntos
 Realiza las siguientes consultas en XPath sobre el documento XML videojuegos.xml. Para ello crea un documento (Google Docs) e incluye captura de su funcionamiento en BaseX (debe aparecer tanto la consulta como el resultado de dicha consulta).
 
