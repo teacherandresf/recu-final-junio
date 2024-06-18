@@ -1,0 +1,35 @@
+<reservas>
+    <reserva>
+        <cliente>
+            <nombre>Juan Pérez</nombre>
+        </cliente>
+        <habitacion>
+            <tipo>Suite</tipo>
+            <numero>101</numero>
+        </habitacion>
+        <fecha_checkin>2024-06-01</fecha_checkin>
+        <estancia>3</estancia>
+    </reserva>
+    <reserva>
+        <cliente>
+            <nombre>Ana López</nombre>
+        </cliente>
+        <habitacion>
+            <tipo>Doble</tipo>
+            <numero>202</numero>
+        </habitacion>
+        <fecha_checkin>2024-06-05</fecha_checkin>
+        <estancia>7</estancia>
+    </reserva>
+    <reserva>
+        <cliente>
+            <nombre>Carlos Martínez</nombre>
+        </cliente>
+        <habitacion>
+            <tipo>Suite</tipo>
+            <numero>101</numero>
+        </habitacion>
+        <fecha_checkin>2024-06-03</fecha_checkin>
+        <estancia>2</estancia>
+    </reserva>
+</reservas>

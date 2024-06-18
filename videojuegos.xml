@@ -1,0 +1,20 @@
+<videojuegos>
+    <videojuego>
+        <titulo>The Legend of Zelda: Breath of the Wild</titulo>
+        <plataforma>Nintendo Switch</plataforma>
+        <calificacion>9.5</calificacion>
+        <fecha_lanzamiento>2017-03-03</fecha_lanzamiento>
+    </videojuego>
+    <videojuego>
+        <titulo>Hades</titulo>
+        <plataforma>PC</plataforma>
+        <calificacion>8.8</calificacion>
+        <fecha_lanzamiento>2020-09-17</fecha_lanzamiento>
+    </videojuego>
+    <videojuego>
+        <titulo>Cyberpunk 2077</titulo>
+        <plataforma>PC</plataforma>
+        <calificacion>7.5</calificacion>
+        <fecha_lanzamiento>2020-12-10</fecha_lanzamiento>
+    </videojuego>
+</videojuegos>
