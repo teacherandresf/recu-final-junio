@@ -3,11 +3,11 @@
 
 ## RA1, RA2, RA3: Páginas web HTML + CSS + JAVASCRIPT
 
-### ESTILOS BODY
+### ESTILOS BODY (RA 1 - 2 PUNTOS)
 - Crea un archivo `index.html` que contenga la división de `header`, `nav`, `main` y `footer`.
 - Cambia la fuente de todo el documento HTML a una que te guste.
 
-### ESTILOS HEADER
+### ESTILOS HEADER (RA 1 - 2 PUNTOS)
 - Dentro del apartado `header` incluye un título de nivel 1 donde ponga **Noticias de TUNOMBRE**.
 - Añade estilos al `header` como un color de fondo.
 - Cambio de tipografía para el título a una MUY distinta de la que tiene el resto del documento.
@@ -16,14 +16,17 @@
 - Añádele sombra al texto.
 - Da suficiente espacio para que no quede el texto agobiado.
 
-### ESTILOS NAV
+### ESTILOS NAV (RA 1 - 4 PUNTOS)
 - Incluye varios enlaces en el `nav` (no tienen por qué llevar a ningún sitio) y espárcelos al ancho de la pantalla mediante flex.
 - Añade un color de fondo similar al del `header`.
 - Cambia el color de los enlaces interiores a un color visible y que combine (te recomiendo blanco).
 - Elimina el subrayado de los enlaces.
 - Da suficiente espacio para que no quede el texto agobiado.
 
-### ESTILOS MAIN
+### ESTILOS FOOTER (RA1 - 2 PUNTOS)
+- En el `footer` incluye una lista sin orden con enlaces a redes sociales: página principal de Facebook, Twitter e Instagram.
+
+  ### ESTILOS MAIN (RA 2 - 10 PUNTOS)
 - Incluye un título de nivel 3 que ponga **Noticias de la semana**.
 - También en `main` debes incluir un divisor tipo flex.
 - Dentro de dicho divisor flex, debes incluir 5 divisores más que contengan:
@@ -35,12 +38,10 @@
 - Cuando pases el cursor por encima de las tarjetas estas se deben resaltar de alguna forma (algunas ideas: cambiar color de la sombra, añadir bordes de colores).
 - Uno de los divs deberá tener un estilo distinto (color, color de sombra) algo que lo destaque. Ejemplos: para indicar que es una noticia de última hora, más leída, exclusiva...
 
-### ESTILOS FOOTER
-- En el `footer` incluye una lista sin orden con enlaces a redes sociales: página principal de Facebook, Twitter e Instagram.
-
-### A TODA LA PÁGINA
-- Incluye el mostrar y ocultar un elemento mediante javascript.
-- También muestra la fecha y la hora actual en alguna esquina de la página web.
+### A TODA LA PÁGINA (RA 3 - 10 PUNTOS)
+- Incluye el mostrar y ocultar un elemento mediante javascript, que incluya un mensaje de alerta de confirmación. - 7 PUNTOS
+- También muestra la fecha y la hora actual en alguna esquina de la página web. - 2 PUNTOS
+- Inlcluye al menos una librería externa de javascript - 1 punto
 
 ## RA 4 CREACIÓN Y VALIDACIÓN XML
 
