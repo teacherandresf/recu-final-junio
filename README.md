@@ -58,7 +58,7 @@ Realiza un XML Schema para el ejercicio 1 que valide el documento XML que has cr
 ### Ejercicio 1 - 4 puntos
 Descarga el archivo videojuegos.xml que se encuentra dentro de este repositorio y añádelo a tu proyecto. Ahora vamos a procesar este fichero mediante un programa en Java. El programa deberá mostrar por pantalla los títulos de los juegos que tienen una calificación mayor a 8.
 
-### Ejercicio 1 - 3 puntos
+### Ejercicio 2 - 3 puntos
 Realiza las siguientes consultas en XPath sobre el documento XML videojuegos.xml. Para ello crea un documento (Google Docs) e incluye captura de su funcionamiento en BaseX (debe aparecer tanto la consulta como el resultado de dicha consulta).
 
 a) Seleccionar todos los títulos de los videojuegos
