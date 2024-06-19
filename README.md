@@ -1,5 +1,7 @@
 
 ## EXAMEN DE RECUPERACIÓN LMSGI
+- Queda prohibido el uso de IA
+- Dispones de dos horas para realizarlo (hasta las 11:15)
 
 ## RA1, RA2, RA3: Páginas web HTML + CSS + JAVASCRIPT
 
